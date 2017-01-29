@@ -1,0 +1,8 @@
+Start
+Declarations
+int value
+output "Enter value"
+input value
+set program=value*10
+output program
+Stop

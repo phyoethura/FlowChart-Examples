@@ -1,0 +1,10 @@
+Start
+Declarations
+num anynumber
+output "Enter anynumber"
+input "Enter anynumber"
+set square of anynumber=anynumber*anynumber
+output square of anynumber
+set cube of anynumber=anynumber*anynumber*anynumber
+output cube of anynumber
+Stop

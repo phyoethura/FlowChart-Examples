@@ -1,0 +1,18 @@
+Start
+Declarations
+num hourlypayrate
+num numberofhours
+float percentageofgrosssalary
+output "Enter hourlypayrate"
+output "Enter numberofhours"
+output "Enter percentageofgrosssalary"
+input hourlypayrate
+input numberofhours
+input percentageofgrosssalary
+set the gross pay=hourlypayrate*numberofhours
+output the gross pay
+set the withholding amount=the gross pay * percentageofgrosssalary
+output the gross pay
+set the net pay = the gross pay - the withholding amount
+output the net pay
+Stop

@@ -1,0 +1,11 @@
+Start
+Declarations
+int firstvalue
+int firstvalue
+output "Enter firstvalue"
+output "Enter secondvalue"
+input firstvalue
+input secondvalue
+set program=firstvalue+secondvalue
+output program
+Stop

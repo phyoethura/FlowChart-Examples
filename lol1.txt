@@ -1,0 +1,10 @@
+Start
+Declarations
+float area
+float pi
+float radius
+output "Enter radius"
+input radius
+set area=pi*radius*radius
+output area of the circle
+Stop

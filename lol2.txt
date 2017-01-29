@@ -1,0 +1,9 @@
+Start
+Declarations
+num firstside
+num secondside
+output "Enter firstside and secondside"
+input "firstside and secondside"
+set area = firstside*secondside
+output area of the rectangle
+Stop
