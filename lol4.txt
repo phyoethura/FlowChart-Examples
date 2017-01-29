@@ -6,3 +6,4 @@ input value
 set program=value*10
 output program
 Stop
+yo was up
